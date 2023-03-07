@@ -1,0 +1,50 @@
+.table2{
+        border:2px solid black;
+        border-collapse: collapse;
+        padding: 10px;
+        border-spacing: 5px;
+        width:60%;
+        height:130px;
+    }
+    .table2 th{
+        background-color:rgba(255, 228, 196, 0.625);
+        border: 2px solid black;
+    }
+    .table2 td{
+        background-color: white;
+        border:2px solid black;
+    }
+    nav a{
+        text-decoration: none;
+        color: black;
+        transition: 0.4s;
+    }
+
+    nav a:hover{
+        color:#2294ed;
+    }
+    nav a:visited{
+        color:#1d69a3;
+    }
+    h2{
+    background-color: #f88667ca;
+    }
+    body{
+        background-color: white;
+    }
+    .contact a{
+        text-decoration: none;
+        color: black;
+    }
+    .contact a:hover{
+        color:#2294ed;
+
+    }
+    .contact a:visited{
+        color:#1d69a3;
+
+    }
+   
+
+    
+
